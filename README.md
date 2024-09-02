@@ -1,0 +1,1 @@
+# Keep the MobileCompany application in this directory
